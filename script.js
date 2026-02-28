@@ -6,7 +6,7 @@ async function fetchWeather(){
   const weatherDataSection = document.getElementById("weather-data");
   weatherDataSection.style.display = "flex";
 
-  const apiKey = "89ecf3b87def981c0ca4bcf5ee1384fd"
+  const apiKey = "ADD API KEY HERE"
 
   if(searchInput == ""){
     weatherDataSection.innerHTML = `
@@ -77,6 +77,7 @@ async function fetchWeather(){
   getWeatherData(geocodeData.lon, geocodeData.lat);
 
 }
+
 
 
 
