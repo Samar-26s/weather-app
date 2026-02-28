@@ -16,14 +16,10 @@ A simple weather application that fetches real-time weather data using API and d
 - JavaScript
 - Weather API
 
-## 📸 Screenshot
-
-(Add screenshot here later)
-
 ## 📂 How to Run
 
 Just open index.html in browser
 
-## 👨‍💻 Author
 
-Samar
+
+
